@@ -1,1 +1,1 @@
-how to be up to date
+git pull origin main && git add README.md && git commit -m "Update README.md" && git push origin main
